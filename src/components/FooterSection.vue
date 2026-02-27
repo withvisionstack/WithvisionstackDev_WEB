@@ -26,9 +26,9 @@ const year = new Date().getFullYear()
         </div>
 
         <div class="footer-col">
-          <a href="https://wa.me/5500000000000" target="_blank">WhatsApp</a>
+          <a href="https://wa.me/43988489529" target="_blank">WhatsApp</a>
           <a href="https://linkedin.com/" target="_blank">LinkedIn</a>
-          <a href="https://github.com/" target="_blank">GitHub</a>
+          <a href="https://github.com/withvisionstack" target="_blank">GitHub</a>
         </div>
       </div>
 
@@ -42,4 +42,5 @@ const year = new Date().getFullYear()
       </div>
     </div>
   </footer>
+
 </template>
