@@ -29,6 +29,7 @@ const year = new Date().getFullYear()
           <a href="https://wa.me/43988489529" target="_blank">WhatsApp</a>
           <a href="https://www.linkedin.com/in/hugo-felipe-dos-santos-22a3503b8" target="_blank">LinkedIn</a>
           <a href="https://github.com/withvisionstack" target="_blank">GitHub</a>
+          <a href="https://www.instagram.com/wsagencia.100" target="_blank">Instagram</a>
         </div>
       </div>
 
